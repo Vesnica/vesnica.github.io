@@ -13,3 +13,5 @@ In "Asia Pacific (Tokyo)" region, the spot price of g2.8xlarge instance(have 4 k
 At first I thought it's a coincidence, "maybe some other ppl send request at the same time, so the price bar is raised". But after some experiments I found there is no other ppl, it's ME, the only requester, cause those beautiful spikes:
 
 ![Spikes](https://cloud.githubusercontent.com/assets/1401615/12772279/daa6b746-ca6a-11e5-8112-1538fb760ee2.PNG)
+
+A price system is cheating (or broken) if a single user can cause such sharp fluctuations. Users wants to know the REAL current price all the time, but what they see now is just an honey illusion.
