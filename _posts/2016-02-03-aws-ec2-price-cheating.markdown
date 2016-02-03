@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "AWS EC2 price cheating"
-date:   2016-02-06 11:08:08 +0800
-categories: aws ec2
+date:   2016-02-03 11:08:08 +0800
+categories: aws
 permalink: aws_price_cheating
 ---
 
