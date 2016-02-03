@@ -28,6 +28,17 @@ def foo
 end
 {% endhighlight %}
 
+{% highlight rust %}
+fn main() {
+    let x: i32 = 5;
+    struct Name(i32);
+    let y: Name = 5;
+    if x == y {
+        
+    }
+}
+{% endhighlight %}
+
 \\[\frac{2 \pi }{\sqrt{e_n^i}}\\]
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
