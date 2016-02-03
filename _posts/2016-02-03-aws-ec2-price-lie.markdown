@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "AWS EC2 price cheating"
+title:  "AWS EC2 price is a lie"
 date:   2016-02-03 11:08:08 +0800
 categories: aws
-permalink: aws_price_cheating
+permalink: aws_price_lie
 ---
 
 Recently I need some gpu power to support my machine learning research. After some investigation I found Amazon aws ec2 service offer gpu instances with a very attractive price. but the fact is not as seen.
