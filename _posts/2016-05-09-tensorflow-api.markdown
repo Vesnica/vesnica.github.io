@@ -7,6 +7,7 @@ permalink: tensorflow_api
 ---
 
 ###  Building Graphs
+
 #### Core graph data structures
 *       tf.Graph
 *       tf.Operation
