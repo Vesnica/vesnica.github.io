@@ -52,6 +52,7 @@ permalink: tensorflow_api
 *       tf.bytes
 
 ###  Control Flow
+
 #### Control Flow Operations
 *       tf.identity()
 *       tf.tuple()
@@ -89,6 +90,7 @@ permalink: tensorflow_api
 *       tf.Print()
 
 ###  Running Graphs
+
 #### Session management
 *       tf.Session
 *       tf.InteractiveSession
@@ -114,6 +116,7 @@ permalink: tensorflow_api
 *       tf.errors.DataLossError
 
 ###  Training
+
 #### Optimizers
 *       tf.train.Optimizer
 *       tf.train.GradientDescentOptimizer
@@ -177,6 +180,7 @@ permalink: tensorflow_api
 *       tf.train.generate_checkpoint_state_proto()
 
 ###  Neural Network
+
 #### Activation Functions
 *       tf.nn.relu()
 *       tf.nn.relu6()
@@ -242,6 +246,7 @@ permalink: tensorflow_api
 *       tf.nn.depthwise_conv2d_native()
 
 ###  Constants, Sequences, and Random Values
+
 #### Constant Value Tensors
 *       tf.zeros()
 *       tf.zeros_like()
@@ -263,6 +268,7 @@ permalink: tensorflow_api
 *       tf.set_random_seed()
 
 ###  Variables
+
 #### Variables
 *       tf.Variable
 
@@ -314,6 +320,7 @@ permalink: tensorflow_api
 *       tf.train.import_meta_graph()
 
 ###  Tensor Transformations
+
 #### Casting
 *       tf.string_to_number()
 *       tf.to_double()
@@ -360,6 +367,7 @@ permalink: tensorflow_api
 *       tf.unique_with_counts()
 
 ###  Sparse Tensors
+
 #### Sparse Tensor Representation
 *       tf.SparseTensor
 *       tf.SparseTensorValue
@@ -382,6 +390,7 @@ permalink: tensorflow_api
 *       tf.sparse_tensor_dense_matmul()
 
 ###  Math
+
 #### Arithmetic Operators
 *       tf.add()
 *       tf.sub()
@@ -499,6 +508,7 @@ permalink: tensorflow_api
 *       tf.sparse_segment_sqrt_n_grad()
 
 ###  Inputs and Readers
+
 #### Placeholders
 *       tf.placeholder()
 *       tf.placeholder_with_default()
@@ -547,10 +557,12 @@ permalink: tensorflow_api
 *       tf.train.shuffle_batch_join()
 
 ###  Data IO (Python functions)
+
 #### Data IO (Python Functions)
 *       tf.python_io.TFRecordWriter
 
 ###  Images
+
 #### Encoding and Decoding
 *       tf.image.decode_jpeg()
 *       tf.image.encode_jpeg()
@@ -601,6 +613,7 @@ permalink: tensorflow_api
 *       tf.image.sample_distorted_bounding_box()
 
 ###  Testing
+
 #### Unit tests
 *       tf.test.main()
 
@@ -614,6 +627,7 @@ permalink: tensorflow_api
 *       tf.test.compute_gradient_error()
 
 ###  Layers (contrib)
+
 #### Higher level ops for building neural network layers
 *       tf.contrib.layers.convolution2d()
 *       tf.contrib.layers.fully_connected()
@@ -644,6 +658,7 @@ permalink: tensorflow_api
 
 
 ###  Utilities (contrib)
+
 #### Miscellaneous Utility Functions
 *       tf.contrib.util.constant_value()
 *       tf.contrib.util.make_tensor_proto()
@@ -651,5 +666,6 @@ permalink: tensorflow_api
 *       tf.contrib.util.stripped_op_list_for_graph()
 
 ###  Wraps python functions
+
 #### Script Language Operators
 *       tf.py_func()
