@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "TensorFlow API List"
+date:   2016-05-09 19:12:08 +0800
+categories: tensorflow
+permalink: tensorflow_api
+---
+
 ###  Building Graphs
 #### Core graph data structures
 *       tf.Graph
